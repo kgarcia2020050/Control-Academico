@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: linear-gradient(to top,  rgba(71, 71, 80, 0.4) 0%, rgba(57, 57, 59, 0.4) 100%), url(../img/Libros.jpg) !important;
+    background-size: cover !important;
+}
+
+#equipo3-header {
+    background-color: black !important;
+    color:white !important;
+    text-align: center !important;
+    padding: 10px !important;
+    width: 100% !important;
+}
+
+#equipo3-footer {
+    background-color: #222 !important;
+    text-align: center !important; 
+    position: fixed !important;
+    bottom: 0 !important;
+    width: 100% !important;
+    color: white !important;
+    font-size: 15px !important;
+}
+
+a{
+    text-decoration: none !important;
+    color: white !important;
+}
+
+#equipo3-footer p{
+    padding-top:15px !important;
+}
+
+@font-face {
+    font-family: sans-serif !important;
+}
+
+#curso {
+    padding-right: 150px;
+}
